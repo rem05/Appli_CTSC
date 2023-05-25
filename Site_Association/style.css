@@ -1,0 +1,9 @@
+/* Import Police */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
+/* En tête */
+header {
+    font-family: 'Kalam', cursive;
+}
+

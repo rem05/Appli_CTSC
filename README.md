@@ -1,3 +1,3 @@
-# Appli_CTSC
-Application résultat et palmarès tir sportif
-Importation du logo du club et mise en place en header
+#Site caligraphie
+Importation Police, refonte site et changement d'idée pour exercice,
+le nouveau site sera une association fictive de caligraphie
